@@ -6,7 +6,7 @@ The documentation covers all you need to adopt the latest NPU+ARM CPU architectu
 RandomForest is current supported by the company `SOCIF <https://socif.co/>`_
 and offers a set of *simple* and *intuitive* dashboard, SDK and APIs.
 
-Check out the :doc:`quickstart` section for the new comers.
+Check out the :doc:`Welcome/quickstart` section for the new comers.
 
 .. note::
 
@@ -17,6 +17,7 @@ Contents
 
 .. toctree::
 
-   quickstart
+   Welcome/quickstart
+   Instances/
    sdk
    api
