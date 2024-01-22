@@ -21,3 +21,16 @@ Contents
    Instances/
    sdk
    api
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 🚀 Tutorials
+
+   Welcome/about
+   Welcome/faq
+   Welcome/quickstart
+   Instances/connect
+   Instances/troubleshoot
+   api
+   sdk
