@@ -25,12 +25,30 @@ Contents
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 🚀 Tutorials
+   :caption: 👋 Welcome
 
    Welcome/about
    Welcome/faq
    Welcome/quickstart
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 🖥️ NPU instances
+
    Instances/connect
    Instances/troubleshoot
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 📦 API
+
    api
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 🧰 SDK
+
    sdk

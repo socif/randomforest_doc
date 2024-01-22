@@ -34,6 +34,12 @@ html_theme = 'sphinx_rtd_theme'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
+html_logo = "logo_hd.svg"
+
 html_theme_options = {
     'navigation_depth': 4,
+    'logo_only': True,
+    'display_version': False,
 }
+
+
