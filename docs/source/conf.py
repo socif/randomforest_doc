@@ -36,6 +36,7 @@ epub_show_urls = 'footnote'
 
 html_static_path = ['_static']
 html_logo = "logo_hd.svg"
+html_favicon = 'favicon.ico'
 
 html_theme_options = {
     'navigation_depth': 4,
