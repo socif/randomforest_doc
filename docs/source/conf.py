@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'RandomForest Cloud'
+copyright = '2024, RandomForest Cloud'
+author = 'RandomForest Cloud'
 
 release = '0.1'
 version = '0.1.0'

@@ -1,4 +1,4 @@
-API
+SDK
 
 .. note::
 

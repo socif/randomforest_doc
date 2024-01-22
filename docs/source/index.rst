@@ -1,22 +1,22 @@
-Welcome to RandomForest's documentation!
+Welcome to RandomForest Cloud's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**RandomForest Cloud** is a simplest and the most affordable cloud for the builders.
+The documentation covers all you need to adopt the latest NPU+ARM CPU architecture for your AI applications.
+RandomForest is current supported by the company `SOCIF <https://socif.co/>`_
+and offers a set of *simple* and *intuitive* dashboard, SDK and APIs.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`quickstart` section for the new comers.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. Complete service and documentation will be launched in March, 2024. Please visit `the official RandomForest Cloud homepage <https://socif.co/>`_ for more details
 
 Contents
 --------
 
 .. toctree::
 
-   usage
+   quickstart
+   sdk
    api
