@@ -16,13 +16,6 @@ Contents
 --------
 
 .. toctree::
-
-   Welcome/quickstart
-   Instances/
-   sdk
-   api
-
-.. toctree::
    :maxdepth: 2
    :hidden:
    :caption: 👋 Welcome
