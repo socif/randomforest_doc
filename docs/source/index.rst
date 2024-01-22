@@ -1,4 +1,4 @@
-Welcome to RandomForest Cloud's documentation!
+Welcome to RandomForest Cloud
 ===================================
 
 **RandomForest Cloud** is a simplest and the most affordable cloud for the builders.
