@@ -12,9 +12,6 @@ Check out the :doc:`Welcome/quickstart` section for the new comers.
 
    This project is under active development. Complete service and documentation will be launched in March, 2024. Please visit `the official RandomForest Cloud homepage <https://socif.co/>`_ for more details
 
-Contents
---------
-
 .. toctree::
    :maxdepth: 2
    :hidden:
